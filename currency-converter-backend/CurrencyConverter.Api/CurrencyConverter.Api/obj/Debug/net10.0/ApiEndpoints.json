@@ -1,0 +1,54 @@
+[
+  {
+    "ContainingType": "CurrencyConverter.Api.Controllers.CurrencyController",
+    "Method": "Convert",
+    "RelativePath": "api/currency/convert",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "from",
+        "Type": "CurrencyConverter.Api.Enums.CurrencyCode",
+        "IsRequired": false
+      },
+      {
+        "Name": "to",
+        "Type": "CurrencyConverter.Api.Enums.CurrencyCode",
+        "IsRequired": false
+      },
+      {
+        "Name": "amount",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CurrencyConverter.Api.Controllers.CurrencyController",
+    "Method": "Info",
+    "RelativePath": "api/currency/info",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Program\u002B\u003C\u003Ec",
+    "Method": "\u003C\u003CMain\u003E$\u003Eb__0_2",
+    "RelativePath": "health",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ajVuca9uOkg=",
+  "success": true,
+  "projectFilePath": "D:\\projekty\\CurrencyConverterWeb\\currency-converter-backend\\CurrencyConverter.Api\\CurrencyConverter.Api\\CurrencyConverter.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ProdejPC\\.nuget\\packages\\csvhelper\\33.1.0\\csvhelper.33.1.0.nupkg.sha512",
+    "C:\\Users\\ProdejPC\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.1\\microsoft.aspnetcore.openapi.10.0.1.nupkg.sha512",
+    "C:\\Users\\ProdejPC\\.nuget\\packages\\microsoft.openapi\\2.3.0\\microsoft.openapi.2.3.0.nupkg.sha512",
+    "C:\\Users\\ProdejPC\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\10.1.0\\swashbuckle.aspnetcore.swagger.10.1.0.nupkg.sha512",
+    "C:\\Users\\ProdejPC\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\10.1.0\\swashbuckle.aspnetcore.swaggergen.10.1.0.nupkg.sha512",
+    "C:\\Users\\ProdejPC\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.1.0\\swashbuckle.aspnetcore.swaggerui.10.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
