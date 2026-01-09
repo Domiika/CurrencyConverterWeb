@@ -1,4 +1,4 @@
-# CurrencyConverterWeb
+# CurrencyConverterWeb (C# / ASP.NET Core application)
 
 Live demo: https://currency-converter-demo-jet.vercel.app/
 
