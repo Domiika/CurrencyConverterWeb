@@ -38,3 +38,4 @@ git clone https://github.com/Domiika/CurrencyConverterWeb.git
 cd CurrencyConverterWeb
 docker compose up
 ```
+Now you can go to frontend link: http://localhost:5173/
